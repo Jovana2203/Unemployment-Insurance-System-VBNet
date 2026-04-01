@@ -7,15 +7,15 @@ Technical Features
 
 * Object-Oriented Programming (OOP): Utilizes Abstraction, Inheritance, and Encapsulation.
 
-Business Logic:
+* Business Logic:
 
-* Tiered Duration: Benefit length based on months of service.
+- Tiered Duration: Benefit length based on months of service.
 
-* Capping Mechanism: Strict adherence to Minimum and Maximum legal limits.
+- Capping Mechanism: Strict adherence to Minimum and Maximum legal limits.
 
-* Debt Integration: Automatic deduction of government debts from the final payout.
+- Debt Integration: Automatic deduction of government debts from the final payout.
 
-Language: VB.NET
+* Language: VB.NET
 
 Class Hierarchy
 * BureauUser (Abstract Base): Defines core properties and shared calculation logic.
